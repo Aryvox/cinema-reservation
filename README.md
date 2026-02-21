@@ -52,3 +52,7 @@ Projet PHP sans framework pour la réservation de places de cinéma, avec archit
 - `views/` : templates d'affichage
 - `public/` : point d'entrée (`index.php`) + assets
 - `database/` : scripts SQL
+
+## Note
+
+- Le projet a été réalisé à deux avec Live Share pour faciliter la collaboration en temps réel.
